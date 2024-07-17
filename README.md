@@ -7,13 +7,9 @@
 
 - 🌱 I’m currently learning **Devops enginering and cyber security**
 
-- 📝 I regularly write articles on [wiki.nemati.top](wiki.nemati.top)
-
 - 💬 Ask me about **C/C++ and Linux systems**
 
 - 📫 How to reach me **nemati.m.777@gmail.com**
-
-- 📄 Know about my experiences [mohammadreza.nemati.top](mohammadreza.nemati.top)
 
 - ⚡ Fun fact **I'm a piano player**
 
