@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohammadreza-nemati" alt="mohammadreza-nemati" /></a> </p>
 
-- 🌱 I’m currently learning **Devops enginering and cyber security**
-
 - 💬 Ask me about **C/C++ and Linux systems**
 
 - 📫 How to reach me **nemati.m.777@gmail.com**
